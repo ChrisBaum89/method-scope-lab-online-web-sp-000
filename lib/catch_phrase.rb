@@ -1,4 +1,4 @@
 def catch_phrase
-var phrase
+phrase = ""
   puts phrase
 end
